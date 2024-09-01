@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thomjsmith
+- 👀 I’m interested in learning to code, building fun projects and working with cool people
+- 🌱 I’m currently learning python
