@@ -1,6 +1,6 @@
 **Hi, I’m Tom @thomjsmith**
 
-- 🌱 Currently honing my Python skills, struggling to read Dostoevsky, and experimenting with creative solutions to novel projects that solve real-world problems.
+- 🌱 Currently honing my Python skills, struggling to read Dostoevsky, and experimenting with creative solutions to novel problems.
 - 👀 Exploring how tech, automation, and smart solutions can drive efficiency and innovation in private equity and beyond.
 - 🚀 Always up for a new challenge.
 
